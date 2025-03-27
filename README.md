@@ -28,7 +28,7 @@
 <p align="center">
 
 
-  <table border="3" align="center" width="400" height="310"><tr><td><a href="https://ibb.co/PG8zSzf4"><img title="OWNER" src="https://i.ibb.co/WvK6Rhvx/50c5c094844ed5f0.jpg" alt="" border="0" width="220" height="210" /></a></td><td>  <a href="https://ibb.co/tpDDg0Jz"><img src="https://i.ibb.co/k2XXjLSJ/IMG-20250130-WA0047.jpg" alt="IMG-20250130-WA0047" border="0" width="210" height="210" /></a></td></tr> <tr><td> <p align="center"> MR DILA OFC </p> </td><td><p align="center"></p> </td></tr><tr><td colspan="2"><p align="center">🌸● ┈──  
+  <table border="3" align="center" width="400" height="310"><tr><td><a href="https://ibb.co/PG8zSzf4"><img title="OWNER" src="https://i.ibb.co/WvK6Rhvx/50c5c094844ed5f0.jpg" alt="" border="0" width="220" height="210" /></a></td><td>  <a href="https://ibb.co/tpDDg0Jz"><img src="" alt="IMG-20250130-WA0047" border="0" width="210" height="210" /></a></td></tr> <tr><td> <p align="center"> MR DILA OFC </p> </td><td><p align="center"></p> </td></tr><tr><td colspan="2"><p align="center">🌸● ┈──  
  ___Develope by mr dila</p></td></tr></table>
 <p align="center"> 
     <a aria-label="FOLLOW MR DILA " href="L" target="_blank">
