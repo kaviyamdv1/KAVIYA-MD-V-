@@ -1,4 +1,4 @@
-<h1> <p align="center"> SIMI-MD </h1></p>
+<h1> <p align="center"> KAVIYA MD </h1></p>
 <p align="center"> <marquee>❄️__✨️ʜɪ, ɪ'ᴍ ꜱɪᴍɪ-ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ✨__❄️</marquee>
  <a href="https://ibb.co/36SdvrJ"><img src="https://i.ibb.co/NDWCrV4/seven.jpg" alt="seven" border="0" /></a>
     
