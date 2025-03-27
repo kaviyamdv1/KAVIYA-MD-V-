@@ -42,7 +42,7 @@
 1. ***Star⭐ The Repository Must***
 2. ***Click [FORK](https://github.com/kaviyamdv1/KAVIYA-MD-V-)***
 4. ***Get Your [Mongodb](https://www.mongodb.com/) Url***
-5. ***Deploy on [Heroku](https://github.com/heroku/heroku-buildpack-nodejs.git)***
+5. ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/kaviyamdv1/KAVIYA-MD-V-)***
 6. ***Deploy on [Koyeb](https://www.koyeb.com/)***
 
 - ***Need Unlimited Stars On MY Repo***
